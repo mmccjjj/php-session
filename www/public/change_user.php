@@ -19,8 +19,8 @@
 
   <?php
 
-  $_SESSION['username'] = 'MaxMustermann';
-  $_SESSION['user_id'] = 123;
+  $_SESSION['username'] = 'Dani';
+  $_SESSION['user_id'] = 456;
 
 
 

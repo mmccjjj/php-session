@@ -13,15 +13,12 @@
     <title>Document</title>
 </head>
 <body>
+
+<?php
+    $_SESSION['message']= " ";
+?>
+
+<a href="message_output.php">Output</a>
     
-
- <?php
-
-$username = $_SESSION['username'];
-$user_id = $_SESSION['user_id'];
-
-echo "<h1>Hello $username</h1>"
-
- ?>
 </body>
 </html>
